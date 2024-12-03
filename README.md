@@ -4,13 +4,7 @@
 
 The GitPeek App is a sleek, user-friendly web application designed to provide quick and comprehensive information about any GitHub user. Simply type in a GitHub username, and get instant access to a variety of data including bio, follower count, repository information, and much more, presented in an elegant and readable format. This app is built with HTML, CSS, and JavaScript, ensuring a lightweight and responsive user experience.
 
-## User Interface
 
-<p align="center" style="cursor: pointer">
-    <img src="icons/ui.png" alt="The GitPeek App Interface" width="100%" style="border-radius: 8px"
-</p>
-
-## Features
 
 - **User Search**: Easily search for any GitHub user by typing the username into the search bar.
 - **Comprehensive User Data**: View detailed information including bio, follower count, following count, repository information, location, company, and much more.
